@@ -1,8 +1,14 @@
 # About
 
-I'm a Software Engineer whose interests include:
+I’m a software engineer focused on building reliable systems and useful tools. 
 
-- Distributed Systems
-- Cloud Computing
-- LLM Tools and Applications
-- Robotics
+My interests include:
+
+- Distributed systems & cloud computing
+- LLM tooling, evaluation, and applications
+- Aerospace systems and simulation
+- Robotics: ROS2, ArduPilot, and perception
+
+Favorite technologies:
+- Programming Languages: Scala, NodeJS, C
+- Databases: DynamoDB, PostgreSQL, Neo4j
